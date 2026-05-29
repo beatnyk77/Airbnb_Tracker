@@ -612,7 +612,164 @@ Solution:
 14. Camembert
 15. Colby
 
-*Puzzles 12-50 follow identical format with different themes and word lists*
+
+**Puzzle 12: Pilgrimage Sites in India**
+Study this list for 60 seconds, then cover and recall:
+1. Varanasi
+2. Rishikesh
+3. Haridwar
+4. Amritsar (Golden Temple)
+5. Tirupati
+6. Shirdi
+7. Ajmer Sharif
+8. Bodh Gaya
+9. Puri (Jagannath Temple)
+10. Vaishno Devi
+11. Mathura-Vrindavan
+12. Prayagraj (Allahabad)
+13. Guruvayur
+14. Shravanabelagola
+15. Velankanni
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Varanasi
+2. Rishikesh
+3. Haridwar
+4. Amritsar (Golden Temple)
+5. Tirupati
+6. Shirdi
+7. Ajmer Sharif
+8. Bodh Gaya
+9. Puri (Jagannath Temple)
+10. Vaishno Devi
+11. Mathura-Vrindavan
+12. Prayagraj (Allahabad)
+13. Guruvayur
+14. Shravanabelagola
+15. Velankanni
+
+**Puzzle 13: Spiritual Practices**
+Study this list for 60 seconds, then cover and recall:
+1. Meditation
+2. Yoga
+3. Prayer
+4. Chanting
+5. Fasting
+6. Pilgrimage
+7. Seva (service)
+8. Satsang
+9. Mantra repetition
+10. Pranayama
+11. Bhajan/kirtan
+12. Journaling/reflection
+13. Mindfulness
+14. Charity/donation
+15. Pilgrimage (yatra)
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Meditation
+2. Yoga
+3. Prayer
+4. Chanting
+5. Fasting
+6. Pilgrimage
+7. Seva (service)
+8. Satsang
+9. Mantra repetition
+10. Pranayama
+11. Bhajan/kirtan
+12. Journaling/reflection
+13. Mindfulness
+14. Charity/donation
+15. Pilgrimage (yatra)
+
+**Puzzle 14: Hindu Deities**
+Study this list for 60 seconds, then cover and recall:
+1. Shiva
+2. Vishnu
+3. Brahma
+4. Devi (Goddess)
+5. Ganesha
+6. Hanuman
+7. Krishna
+8. Rama
+9. Lakshmi
+10. Saraswati
+11. Parvati
+12. Durga
+13. Kali
+14. Kartikeya
+15. Indra
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Shiva
+2. Vishnu
+3. Brahma
+4. Devi (Goddess)
+5. Ganesha
+6. Hanuman
+7. Krishna
+8. Rama
+9. Lakshmi
+10. Saraswati
+11. Parvati
+12. Durga
+13. Kali
+14. Kartikeya
+15. Indra
+
+*Puzzles 15-50 follow identical format with different themes and word lists*
 
 ## WORD SEARCH PUZZLES (PUZZLES 51-100)
 *(All grids are 12x12 with extra-large spacing for clarity)*
@@ -740,7 +897,20 @@ Solution: 6
 Star Wars I, Star Wars II, Star Wars III, ___
 Solution: Star Wars IV
 
-*Puzzles 124-130 follow identical format with various patterns*
+
+**Puzzle 124: Chakras (from base to crown)**
+Root, Sacral, Solar Plexus, Heart, Throat, Third Eye, ___
+Solution: Crown
+
+**Puzzle 125: Days of a Pilgrimage (example)**
+Day 1, Day 3, Day 5, ___
+Solution: Day 7 *(Pattern: every other day)*
+
+**Puzzle 126: Om Chanting Progression**
+Om, Om Shanti, Om Shanti Shanti, ___
+Solution: Om Shanti Shanti Shanti *(Pattern: adding "Shanti")*
+
+*Puzzles 127-130 follow identical format with various patterns*
 
 ## PROGRESS LOG
 *(20-row table - show header and 3 rows as example)*
