@@ -769,7 +769,216 @@ Solution:
 14. Kartikeya
 15. Indra
 
-*Puzzles 15-50 follow identical format with different themes and word lists*
+
+**Puzzle 15: World Landmarks**
+Study this list for 60 seconds, then cover and recall:
+1. Eiffel Tower
+2. Statue of Liberty
+3. Taj Mahal
+4. Great Wall of China
+5. Pyramids of Giza
+6. Colosseum
+7. Machu Picchu
+8. Sydney Opera House
+9. Big Ben
+10. Christ the Redeemer
+11. Leaning Tower of Pisa
+12. Stonehenge
+13. Angkor Wat
+14. Mount Fuji
+15. Golden Gate Bridge
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Eiffel Tower
+2. Statue of Liberty
+3. Taj Mahal
+4. Great Wall of China
+5. Pyramids of Giza
+6. Colosseum
+7. Machu Picchu
+8. Sydney Opera House
+9. Big Ben
+10. Christ the Redeemer
+11. Leaning Tower of Pisa
+12. Stonehenge
+13. Angkor Wat
+14. Mount Fuji
+15. Golden Gate Bridge
+
+**Puzzle 16: Classical Music Composers**
+Study this list for 60 seconds, then cover and recall:
+1. Beethoven
+2. Mozart
+3. Bach
+4. Chopin
+5. Tchaikovsky
+6. Vivaldi
+7. Brahms
+8. Schubert
+9. Handel
+10. Debussy
+11. Wagner
+12. Haydn
+13. Stravinsky
+14. Liszt
+15. Schumann
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Beethoven
+2. Mozart
+3. Bach
+4. Chopin
+5. Tchaikovsky
+6. Vivaldi
+7. Brahms
+8. Schubert
+9. Handel
+10. Debussy
+11. Wagner
+12. Haydn
+13. Stravinsky
+14. Liszt
+15. Schumann
+
+**Puzzle 17: Gemstones**
+Study this list for 60 seconds, then cover and recall:
+1. Diamond
+2. Ruby
+3. Sapphire
+4. Emerald
+5. Amethyst
+6. Topaz
+7. Garnet
+8. Pearl
+9. Opal
+10. Aquamarine
+11. Peridot
+12. Citrine
+13. Turquoise
+14. Jade
+15. Amber
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Diamond
+2. Ruby
+3. Sapphire
+4. Emerald
+5. Amethyst
+6. Topaz
+7. Garnet
+8. Pearl
+9. Opal
+10. Aquamarine
+11. Peridot
+12. Citrine
+13. Turquoise
+14. Jade
+15. Amber
+
+**Puzzle 18: Types of Bread**
+Study this list for 60 seconds, then cover and recall:
+1. Sourdough
+2. Whole wheat
+3. Rye
+4. Baguette
+5. Pita
+6. Naan
+7. Bagel
+8. Croissant
+9. English muffin
+10. Tortilla
+11. Focaccia
+12. Brioche
+13. Pumpernickel
+14. Challah
+15. Cornbread
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Sourdough
+2. Whole wheat
+3. Rye
+4. Baguette
+5. Pita
+6. Naan
+7. Bagel
+8. Croissant
+9. English muffin
+10. Tortilla
+11. Focaccia
+12. Brioche
+13. Pumpernickel
+14. Challah
+15. Cornbread
+
+*Puzzles 19-50 follow identical format with different themes and word lists*
 
 ## WORD SEARCH PUZZLES (PUZZLES 51-100)
 *(All grids are 12x12 with extra-large spacing for clarity)*
@@ -910,7 +1119,24 @@ Solution: Day 7 *(Pattern: every other day)*
 Om, Om Shanti, Om Shanti Shanti, ___
 Solution: Om Shanti Shanti Shanti *(Pattern: adding "Shanti")*
 
-*Puzzles 127-130 follow identical format with various patterns*
+
+**Puzzle 127: Decreasing Squares**
+100, 81, 64, 49, ___
+Solution: 36 *(Pattern: decreasing squares: 10², 9², 8², 7², 6²)*
+
+**Puzzle 128: Alternating Increase/Decrease**
+5, 8, 6, 9, 7, ___
+Solution: 10 *(Pattern: +3, -2, +3, -2, +3)*
+
+**Puzzle 129: Months with 31 days**
+January, March, May, ___
+Solution: July *(Pattern: every other month starting with Jan)*
+
+**Puzzle 130: Zero to Hero**
+0, 1, 1, 2, 3, 5, 8, ___
+Solution: 13 *(Pattern: Fibonacci sequence)*
+
+
 
 ## PROGRESS LOG
 *(20-row table - show header and 3 rows as example)*
