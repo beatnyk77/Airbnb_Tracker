@@ -89,7 +89,373 @@ Study this list for 60 seconds, then cover and recall:
 
 *(For the actual book, each of the 50 puzzles has a unique 15-word theme. Examples of other themes: Garden Flowers (rose, tulip, daisy, etc.), Classic Breakfast Foods, Tools in a Garage, Types of Fish, Fabrics, etc.)*
 
-*(Puzzles 3-50 follow identical format with different themes and word lists)*
+
+**Puzzle 2: Garden Flowers**
+Study this list for 60 seconds, then cover and recall:
+1. Rose
+2. Tulip
+3. Daisy
+4. Lily
+5. Carnation
+6. Chrysanthemum
+7. Marigold
+8. Petunia
+9. Zinnia
+10. Pansy
+11. Snapdragon
+12. Begonia
+13. Geranium
+14. Impatiens
+15. Lavender
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Rose
+2. Tulip
+3. Daisy
+4. Lily
+5. Carnation
+6. Chrysanthemum
+7. Marigold
+8. Petunia
+9. Zinnia
+10. Pansy
+11. Snapdragon
+12. Begonia
+13. Geranium
+14. Impatiens
+15. Lavender
+
+**Puzzle 3: Classic Breakfast Foods**
+Study this list for 60 seconds, then cover and recall:
+1. Pancakes
+2. Waffles
+3. Bacon
+4. Eggs
+5. Toast
+6. Cereal
+7. Oatmeal
+8. Orange juice
+9. Coffee
+10. Yogurt
+11. Muffins
+12. Bagels
+13. Sausage
+14. Hash browns
+15. Fresh fruit
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Pancakes
+2. Waffles
+3. Bacon
+4. Eggs
+5. Toast
+6. Cereal
+7. Oatmeal
+8. Orange juice
+9. Coffee
+10. Yogurt
+11. Muffins
+12. Bagels
+13. Sausage
+14. Hash browns
+15. Fresh fruit
+
+
+**Puzzle 4: Tools in a Garage**
+Study this list for 60 seconds, then cover and recall:
+1. Hammer
+2. Screwdriver set
+3. Wrench
+4. Pliers
+5. Tape measure
+6. Level
+7. Saw
+8. Drill
+9. Socket set
+10. Utility knife
+11. Flashlight
+12. Duct tape
+13. Work gloves
+14. Safety goggles
+15. Toolbox
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Hammer
+2. Screwdriver set
+3. Wrench
+4. Pliers
+5. Tape measure
+6. Level
+7. Saw
+8. Drill
+9. Socket set
+10. Utility knife
+11. Flashlight
+12. Duct tape
+13. Work gloves
+14. Safety goggles
+15. Toolbox
+
+**Puzzle 5: Types of Fish**
+Study this list for 60 seconds, then cover and recall:
+1. Salmon
+2. Tuna
+3. Cod
+4. Trout
+5. Bass
+6. Catfish
+7. Tilapia
+8. Haddock
+9. Halibut
+10. Sardines
+11. Mackerel
+12. Swordfish
+13. Shark
+14. Eel
+15. Anchovy
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Salmon
+2. Tuna
+3. Cod
+4. Trout
+5. Bass
+6. Catfish
+7. Tilapia
+8. Haddock
+9. Halibut
+10. Sardines
+11. Mackerel
+12. Swordfish
+13. Shark
+14. Eel
+15. Anchovy
+
+**Puzzle 6: Fabrics**
+Study this list for 60 seconds, then cover and recall:
+1. Cotton
+2. Wool
+3. Silk
+4. Linen
+5. Polyester
+6. Nylon
+7. Rayon
+8. Denim
+9. Velvet
+10. Leather
+11. Cashmere
+12. Fleece
+13. Satin
+14. Lace
+15. Burlap
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Cotton
+2. Wool
+3. Silk
+4. Linen
+5. Polyester
+6. Nylon
+7. Rayon
+8. Denim
+9. Velvet
+10. Leather
+11. Cashmere
+12. Fleece
+13. Satin
+14. Lace
+15. Burlap
+
+**Puzzle 7: Breakfast Cereals (1960s-1970s)**
+Study this list for 60 seconds, then cover and recall:
+1. Corn Flakes
+2. Wheaties
+3. Rice Krispies
+4. Cheerios
+5. Special K
+6. Frosted Flakes
+7. Lucky Charms
+8. Cap'n Crunch
+9. Trix
+10. Fruit Loops
+11. Coco Puffs
+12. Honeycomb
+13. Alpha-Bits
+14. Grape Nuts
+15. Shredded Wheat
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Corn Flakes
+2. Wheaties
+3. Rice Krispies
+4. Cheerios
+5. Special K
+6. Frosted Flakes
+7. Lucky Charms
+8. Cap'n Crunch
+9. Trix
+10. Fruit Loops
+11. Coco Puffs
+12. Honeycomb
+13. Alpha-Bits
+14. Grape Nuts
+15. Shredded Wheat
+
+**Puzzle 8: Office Supplies**
+Study this list for 60 seconds, then cover and recall:
+1. Pen
+2. Pencil
+3. Notebook
+4. Stapler
+5. Paper clips
+6. Rubber bands
+7. Scissors
+8. Tape
+9. Glue
+10. Envelope
+11. Folder
+12. Binder
+13. Calculator
+14. Sticky notes
+15. Highlighter
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Pen
+2. Pencil
+3. Notebook
+4. Stapler
+5. Paper clips
+6. Rubber bands
+7. Scissors
+8. Tape
+9. Glue
+10. Envelope
+11. Folder
+12. Binder
+13. Calculator
+14. Sticky notes
+15. Highlighter
+
+*Puzzles 9-50 follow identical format with different themes and word lists*
 
 ## WORD SEARCH PUZZLES (PUZZLES 51-100)
 *(All grids are 12x12 with extra-large spacing for clarity)*
@@ -141,7 +507,70 @@ Solution: July
 30, 27, 24, 21, ___
 Solution: 18
 
-*(Puzzles 106-130 follow identical format with various patterns: Fibonacci-style, word patterns, etc.)*
+
+**Puzzle 106: Increasing by 5**
+5, 10, 15, 20, ___
+Solution: 25
+
+**Puzzle 107: Weekday Pattern**
+Tuesday, Thursday, Saturday, ___
+Solution: Monday *(Pattern: every other day, wrapping around week)*
+
+**Puzzle 108: Letter Sequence**
+B, D, F, H, ___
+Solution: J *(Pattern: skip one letter each time)*
+
+**Puzzle 109: Decreasing by 4**
+40, 36, 32, 28, ___
+Solution: 24
+
+**Puzzle 110: Months (every other)**
+February, April, June, ___
+Solution: August
+
+
+**Puzzle 111: Squares**
+1, 4, 9, 16, ___
+Solution: 25 *(Pattern: n²)*
+
+**Puzzle 112: Alphabet Every Third**
+A, D, G, J, ___
+Solution: M
+
+**Puzzle 113: Decreasing by 10**
+100, 90, 80, 70, ___
+Solution: 60
+
+**Puzzle 114: Seasons**
+Spring, Summer, Fall, ___
+Solution: Winter
+
+**Puzzle 115: Doubling then add 1**
+1, 3, 7, 15, ___
+Solution: 31 *(Pattern: ×2 +1)
+
+
+**Puzzle 116: Triangular Numbers**
+1, 3, 6, 10, ___
+Solution: 15 *(Pattern: n(n+1)/2)*
+
+**Puzzle 117: Months (quarterly)**
+January, April, July, ___
+Solution: October
+
+**Puzzle 118: Halving**
+100, 50, 25, 12.5, ___
+Solution: 6.25
+
+**Puzzle 119: Alphabet Reverse**
+Z, X, V, T, ___
+Solution: R
+
+**Puzzle 120: Fibonacci-style**
+1, 1, 2, 3, 5, ___
+Solution: 8
+
+*Puzzles 121-130 follow identical format with various patterns*
 
 ## PROGRESS LOG
 *(20-row table - show header and 3 rows as example)*
