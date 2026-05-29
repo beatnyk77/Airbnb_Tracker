@@ -455,7 +455,164 @@ Solution:
 14. Sticky notes
 15. Highlighter
 
-*Puzzles 9-50 follow identical format with different themes and word lists*
+
+**Puzzle 9: Famous Scientists**
+Study this list for 60 seconds, then cover and recall:
+1. Albert Einstein
+2. Marie Curie
+3. Isaac Newton
+4. Charles Darwin
+5. Galileo Galilei
+6. Nikola Tesla
+7. Stephen Hawking
+8. Rosalind Franklin
+9. Jane Goodall
+10. Dmitri Mendeleev
+11. Ada Lovelace
+12. Louis Pasteur
+13. Carl Sagan
+14. Rachel Carson
+15. Neil deGrasse Tyson
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Albert Einstein
+2. Marie Curie
+3. Isaac Newton
+4. Charles Darwin
+5. Galileo Galilei
+6. Nikola Tesla
+7. Stephen Hawking
+8. Rosalind Franklin
+9. Jane Goodall
+10. Dmitri Mendeleev
+11. Ada Lovelace
+12. Louis Pasteur
+13. Carl Sagan
+14. Rachel Carson
+15. Neil deGrasse Tyson
+
+**Puzzle 10: European Capitals**
+Study this list for 60 seconds, then cover and recall:
+1. London
+2. Paris
+3. Berlin
+4. Rome
+5. Madrid
+6. Amsterdam
+7. Brussels
+8. Vienna
+9. Stockholm
+10. Copenhagen
+11. Helsinki
+12. Warsaw
+13. Prague
+14. Budapest
+15. Lisbon
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. London
+2. Paris
+3. Berlin
+4. Rome
+5. Madrid
+6. Amsterdam
+7. Brussels
+8. Vienna
+9. Stockholm
+10. Copenhagen
+11. Helsinki
+12. Warsaw
+13. Prague
+14. Budapest
+15. Lisbon
+
+**Puzzle 11: Types of Cheese**
+Study this list for 60 seconds, then cover and recall:
+1. Cheddar
+2. Mozzarella
+3. Brie
+4. Gouda
+5. Feta
+6. Blue cheese
+7. Parmesan
+8. Swiss
+9. Goat cheese
+10. Ricotta
+11. Monterey Jack
+12. Provolone
+13. Havarti
+14. Camembert
+15. Colby
+
+Now fill in the blanks:
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+6. ________________________
+7. ________________________
+8. ________________________
+9. ________________________
+10. ________________________
+11. ________________________
+12. ________________________
+13. ________________________
+14. ________________________
+15. ________________________
+
+Solution:
+1. Cheddar
+2. Mozzarella
+3. Brie
+4. Gouda
+5. Feta
+6. Blue cheese
+7. Parmesan
+8. Swiss
+9. Goat cheese
+10. Ricotta
+11. Monterey Jack
+12. Provolone
+13. Havarti
+14. Camembert
+15. Colby
+
+*Puzzles 12-50 follow identical format with different themes and word lists*
 
 ## WORD SEARCH PUZZLES (PUZZLES 51-100)
 *(All grids are 12x12 with extra-large spacing for clarity)*
@@ -570,7 +727,20 @@ Solution: R
 1, 1, 2, 3, 5, ___
 Solution: 8
 
-*Puzzles 121-130 follow identical format with various patterns*
+
+**Puzzle 121: Powers of 3**
+1, 3, 9, 27, ___
+Solution: 81 *(Pattern: ×3)*
+
+**Puzzle 122: Decreasing by 1.5**
+12, 10.5, 9, 7.5, ___
+Solution: 6
+
+**Puzzle 123: Movie Sequels Pattern**
+Star Wars I, Star Wars II, Star Wars III, ___
+Solution: Star Wars IV
+
+*Puzzles 124-130 follow identical format with various patterns*
 
 ## PROGRESS LOG
 *(20-row table - show header and 3 rows as example)*
